@@ -5,3 +5,5 @@
 3/8 - Uploaded screenshots of prototype 
 
 3/22 - Gave character personality and completed UVs and basic texturing
+
+4/12 - Added additional accessories
